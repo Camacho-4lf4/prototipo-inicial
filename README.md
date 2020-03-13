@@ -1,2 +1,2 @@
 # prototipo-inicial
-inico de protocolos
+inicio de protocolos
